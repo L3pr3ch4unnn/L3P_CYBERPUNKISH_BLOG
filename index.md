@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+THIS IS THE HOMEPAGEEEEEE
+BUILD LATERRRRR

@@ -16,12 +16,12 @@ INDICE
 
    Materialización de la prueba de concepto
 
-   Teorias sobre el origen <br><br/>
+   Teorías sobre el origen <br><br/>
    
 
 2. Blockchain en el mundo de hoy
 
-	Valor ecosistemas blockchain vs monedas FIAT
+	Valor de ecosistemas blockchain vs monedas FIAT
 
 	Competencia y utilidad
 
@@ -32,7 +32,7 @@ INDICE
 
  3. Tendencias a futuro 
 
-    ISO 20022: Evolución de otros ya existentes
+    ISO 20022: Evolución de otros estándares ya existentes
 	
 	¿Sobre que trata ISO 20022?
 
@@ -174,7 +174,7 @@ La única certeza de la que disponemos hoy en día es que, por el momento, el cr
 
 <br><br/>
 
-Como prueba de concepto de blockchain, supuso un antes y un después, una tecnología impecable, una encarnación del concepto cypherpunk.
+Como prueba de concepto de blockchain, Bitcoin supuso un antes y un después, una tecnología impecable, una encarnación del concepto cypherpunk.
 
 En aquel momento reinaba la desconfianza en el proyecto, pero aun así siguió adelante, uniendo a desarrolladores, filósofos y economistas en uno de los giros mas apasionantes que ha dado el sistema financiero tal como lo conocíamos.
 

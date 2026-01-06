@@ -46,6 +46,7 @@ INDICE
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 <br><br/>
 PROLOGO
 <br><br/>
@@ -555,9 +556,11 @@ En este forzado cambio, cabría la posibilidad de incluir modificaciones de las 
 	El porcentaje respecto al total de las reservas de moneda fiat atesorada / bonos / activos líquidos es diferente para cada una de ellas. dependiendo de la entidad privada que la gestione. 
 
 <br><br/>
+
 ----------------------------------------------------------------------------------------------------------------------------------------	
 4 - CONCLUSION FINAL
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 <br><br/>
 Cabe remarcar que los Bancos Centrales son responsables de la política y oferta monetaria de las monedas que gestionan.
 

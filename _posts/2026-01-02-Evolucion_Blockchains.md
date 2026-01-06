@@ -91,7 +91,7 @@ Los primeros indicios de la existencia del movimiento Cypherpunk se remontan alr
 
 Ideólogos como David Chaum, ya publicaron importantes textos en los que se planteaba la posibilidad de darle un giro de tuerca al desarrollo tecnológico que estaba experiemntando la sociedad. 
 
-Se encontraban tanteando la posibilidad de diseñar sistemas que protegiesen y garantizasen la privacidad de los usuarios antes los intereses de terceros. 
+Se encontraban tanteando la posibilidad de diseñar sistemas que protegiesen y garantizasen la privacidad de los usuarios ante los intereses de terceros. 
 
 La motivación que movía esta corriente ideológica buscaba dejar de lado la centralización de la información y la delegación de poder, que automáticamente un consumidor tecnológico se ve obligado a asumir respecto a las entidades propietarias del software y hardware.
 
